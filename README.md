@@ -5,11 +5,11 @@
 1. Create a Shiny application and deploy it on Rstudio's servers. 
 2. Use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
 
- - Github Repository: [link] (https://github.com/xssokolova/Course-Project-Shiny-Application-and-Reproducible-Pitch)
+ - Github Repository: https://github.com/xssokolova/Course-Project-Shiny-Application-and-Reproducible-Pitch
 
- - Shiny Application:  [link] (https://xssokolova.shinyapps.io/course_shiny_app/)
+ - Shiny Application:  https://xssokolova.shinyapps.io/course_shiny_app/
 
- - Ioslide Presentation:  [link] (http://rpubs.com/xavifu/265156)
+ - Ioslide Presentation:  http://rpubs.com/xavifu/265156
 
 #### Description
 The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models).
