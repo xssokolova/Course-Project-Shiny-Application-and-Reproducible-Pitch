@@ -9,7 +9,7 @@
 
  - Shiny Application:  https://xssokolova.shinyapps.io/course_shiny_app/
 
- - Ioslide Presentation:  http://rpubs.com/xavifu/265156
+ - Ioslide Presentation:  https://rpubs.com/xssokolova/Course-Project-Shiny-Application-and-Reproducible-Pitch
 
 #### Description
 The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models).
