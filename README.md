@@ -9,8 +9,7 @@
 
  - Shiny Application:  https://xssokolova.shinyapps.io/course_shiny_app/
 
- - Ioslide Presentation:  https://rpubs.com/xssokolova/Course-Project-Shiny-Application-and-Reproducible-Pitch
+ - Ioslide Presentation:  https://rpubs.com/xssokolova/599678
 
 #### Description
-The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models).
-Using these data we can identify what kind of transmission type(AM) is better at particular level of fuel flow (MPG).
+The diamonds dataset that we used in this application exercise consists of prices (SIN $) and carat mass. Using this information we can predict the price of a diamond depending on it's mass.
