@@ -1,15 +1,17 @@
 library(shiny)
 shinyUI(fluidPage(
-    titlePanel("Fuel flow given by Transmission type"),
+    titlePanel("Predicting the price of a diamond"),
     sidebarLayout(
         sidebarPanel(
-            sliderInput("sliderMPG", "What kind of transmission type is better at particular level of fuel flow?", 10, 35, value = 20),
-            submitButton("Submit")
+            sliderInput("sliderCarat", "What is price of a diamond?", 0, 6, value = 0.1),
+            checkboxInput("showModel", "Show/Hide regression line", value = TRUE),
+            submitButton("Submit") 
         ),
         mainPanel(
             plotOutput("plot"),
-
+            h3("Predicted price of a diamond:"),
+            textOutput("pred"),
+            
         )
     )
 ))
-
